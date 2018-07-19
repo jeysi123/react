@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Immuki Island",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/immuki.jpg",
+    "price": 20,
+    "priceCurrency": "Php",
+    "lat": 16.8029,
+    "lng": 120.3255
+  },
+  {
+    "id": 2,
+    "name": "Anito Falls",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/anito.jpg",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.7379,
+    "lng": 120.4546
+  },
+  {
+    "id": 3,
+    "name": "Botanical Garden",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/botanical.jpg",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.587336,
+    "lng": 120.365868
+  },
+  {
+    "id": 4,
+    "name": "Light House",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/lighthouse.jpg",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.6149,
+    "lng": 120.2808
+  },
+  {
+    "id": 5,
+    "name": "Macho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/machotemple.JPG",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.6212,
+    "lng": 120.3175
+  },
+  {
+    "id": 6,
+    "name": "Occalong Falls",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/occalong.jpg",
+    "price": 20,
+    "priceCurrency": "Php",
+    "lat": 16.7995,
+    "lng": 120.3574
+  },
+  {
+    "id": 7,
+    "name": "Pagoda",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/pagoda.jpg",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.6142588,
+    "lng": 120.31923469999992
+  },
+  {
+    "id": 8,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/pindangan.jpg",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.5881,
+    "lng": 120.3146
+  },
+  {
+    "id": 9,
+    "name": "Christ The Redeemer",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/redeemer.jpg",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.6204,
+    "lng": 120.3190
+  },
+  {
+    "id": 10,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/tangadan.jpeg",
+    "price": 50,
+    "priceCurrency": "Php",
+    "lat": 16.6436,
+    "lng": 120.4488
+  },
+  {
+    "id": 11,
+    "name": "Tapuakan River",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/tapuakan.jpg",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.3210,
+    "lng": 120.4812
+  },
+  {
+    "id": 12,
+    "name": "Agoo Museo",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/agoomuseo.JPG",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.3233,
+    "lng": 120.3667
+  },
+  {
+    "id": 13,
+    "name": "John Christian Milanes",
+    "imageUrl": "https://raw.githubusercontent.com/jayseeh/react_map/master/images/balay.png",
+    "price": 00,
+    "priceCurrency": "Php",
+    "lat": 16.817583,
+    "lng": 120.409753
+  }
+]
